@@ -121,14 +121,14 @@ class _HomeState extends State < Home > {
                  Padding(
                   padding: const EdgeInsets.only(left: 10),
                   
-                    child: FlatButton(
+                    child: TextButton(
                       onPressed: (){}, 
                       child: Text('Forgot Password ?', 
                       style: TextStyle(
                         fontSize: 18 , color: Color.fromARGB(255, 55, 236, 186),
                       ) ,),
                       //splashColor: Color.fromARGB(255, 255, 255, 255),
-                      highlightColor: Color.fromARGB(255, 255, 255, 255),
+                      //highlightColor: Color.fromARGB(255, 255, 255, 255),
                       ),
 
                   ),
