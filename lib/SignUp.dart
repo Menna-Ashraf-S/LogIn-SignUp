@@ -158,7 +158,7 @@ class _HomeState extends State < SignUp > {
                     ),
                     ),
                     style: ElevatedButton.styleFrom(
-                      primary: Color.fromARGB(255, 55, 236, 186),
+                      backgroundColor: Color.fromARGB(255, 55, 236, 186),
                     ),
                 ),
                 
@@ -188,7 +188,7 @@ class _HomeState extends State < SignUp > {
                   ),
                   ),
                   style: ElevatedButton.styleFrom(
-                    primary: Color.fromARGB(255, 55, 236, 186),
+                    backgroundColor: Color.fromARGB(255, 55, 236, 186),
                   ),
                 ),
                 

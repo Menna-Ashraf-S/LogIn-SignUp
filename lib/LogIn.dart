@@ -128,7 +128,7 @@ class _HomeState extends State < Home > {
                         fontSize: 18 , color: Color.fromARGB(255, 55, 236, 186),
                       ) ,),
                       //splashColor: Color.fromARGB(255, 255, 255, 255),
-                      //highlightColor: Color.fromARGB(255, 255, 255, 255),
+                     // highlightColor: Color.fromARGB(255, 255, 255, 255),
                       ),
 
                   ),
@@ -147,7 +147,7 @@ class _HomeState extends State < Home > {
                     ),
                     ),
                     style: ElevatedButton.styleFrom(
-                      primary: Color.fromARGB(255, 55, 236, 186),
+                      backgroundColor: Color.fromARGB(255, 55, 236, 186),
                     ),
                 ),
                 
@@ -176,7 +176,7 @@ class _HomeState extends State < Home > {
                   ),
                   ),
                   style: ElevatedButton.styleFrom(
-                    primary: Color.fromARGB(255, 55, 236, 186),
+                    backgroundColor: Color.fromARGB(255, 55, 236, 186),
                   ),
                 ),
                 
